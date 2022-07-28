@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a09b9b-5944-4d87-ba3e-494f5192390e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HelloGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RunManager">
@@ -68,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658982082907</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sentit">
+      <created>1658982193938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658982193938</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sentit3">
+      <created>1658982276116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658982276116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sentit" />
-    <option name="LAST_COMMIT_MESSAGE" value="sentit" />
+    <MESSAGE value="sentit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="sentit3" />
   </component>
 </project>
